@@ -16,8 +16,8 @@
           <article class="entry-content">
             {{ .Content }}
           </article>
-
           <div class="pagination">
+            <a href="/">&laquo; Home </a>
             {{ if .PrevInSection }}
               <a href="{{ .PrevInSection.Permalink }}">&laquo; {{ .PrevInSection.Title }}</a>
             {{ end }}

@@ -1,4 +1,4 @@
-baseURL = 'https://mistyravager.github.io/glitch-website'
+baseURL = 'https://example.com'
 publishDir = "docs"
 languageCode = 'en-us'
 title = 'Glitch'
