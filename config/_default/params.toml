@@ -18,11 +18,11 @@ twitch_url="https://www.twitch.tv/glitchiith"
 ############################## Social ##############################
 [[ social ]]
 url="https://www.instagram.com/glitch.iith/"
-class="fa fa-instagram social"
+class="fab fa-instagram social"
 
 [[ social ]]
 url="https://www.twitch.tv/glitchiith"
-class="fa fa-twitch social"
+class="fab fa-twitch social"
 
 
 
